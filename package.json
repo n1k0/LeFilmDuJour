@@ -1,20 +1,16 @@
 {
   "name": "imdb-potd",
   "version": "1.0.0",
-  "description": "Parse top 500 movies and fetch IMDb data",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "update-images": "node update-image-filenames.js",
-    "add-years": "node add-release-years.js",
-    "shuffle": "node shuffle-movies.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["imdb", "movies", "api", "parser"],
+  "keywords": ["movies"],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.0",
     "dotenv": "^16.3.1"
   }
 }
