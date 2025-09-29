@@ -7,7 +7,7 @@
     "url": "https://www.imdb.com/fr/title/tt0116282/",
     "genre": "Policier, Drame, Thriller",
     "duration": "PT1H38M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 765271,
     "year": 1996
@@ -89,7 +89,7 @@
     "url": "https://www.imdb.com/fr/title/tt1392214/",
     "genre": "Policier, Drame, Mystère",
     "duration": "PT2H33M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 894006,
     "year": 2013
@@ -130,7 +130,7 @@
     "url": "https://www.imdb.com/fr/title/tt4430212/",
     "genre": "Policier, Drame, Mystère",
     "duration": "PT2H43M",
-    "contentRating": "18",
+    "contentRating": "18+",
     "rating": 8.2,
     "ratingCount": 104036,
     "year": 2015
@@ -143,7 +143,7 @@
     "url": "https://www.imdb.com/fr/title/tt8503618/",
     "genre": "Biographique, Drame, Historique",
     "duration": "PT2H49M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.3,
     "ratingCount": 132555,
     "year": 2020
@@ -198,7 +198,7 @@
     "url": "https://www.imdb.com/fr/title/tt0091763/",
     "genre": "Drame, Guerre",
     "duration": "PT2H",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 461898,
     "year": 1987
@@ -348,7 +348,7 @@
     "url": "https://www.imdb.com/fr/title/tt0110912/",
     "genre": "Policier, Drame",
     "duration": "PT2H34M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.8,
     "ratingCount": 2369153,
     "year": 1994
@@ -388,7 +388,7 @@
     "url": "https://www.imdb.com/fr/title/tt0361748/",
     "genre": "Aventure, Drame, Guerre",
     "duration": "PT2H33M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.4,
     "ratingCount": 1717257,
     "year": 2009
@@ -402,7 +402,7 @@
     "url": "https://www.imdb.com/fr/title/tt0167404/",
     "genre": "Drame, Mystère, Thriller",
     "duration": "PT1H47M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 1114268,
     "year": 1999
@@ -498,7 +498,7 @@
     "url": "https://www.imdb.com/fr/title/tt0364569/",
     "genre": "Action, Drame, Mystère",
     "duration": "PT2H",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.3,
     "ratingCount": 693231,
     "year": 2003
@@ -553,7 +553,7 @@
     "url": "https://www.imdb.com/fr/title/tt0457430/",
     "genre": "Drame, Fantastique, Guerre",
     "duration": "PT1H58M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 732102,
     "year": 2007
@@ -567,7 +567,7 @@
     "url": "https://www.imdb.com/fr/title/tt0059578/",
     "genre": "Drame, Western",
     "duration": "PT2H12M",
-    "contentRating": "18",
+    "contentRating": "18+",
     "rating": 8.2,
     "ratingCount": 293186,
     "year": 1967
@@ -762,7 +762,7 @@
     "url": "https://www.imdb.com/fr/title/tt1853728/",
     "genre": "Western",
     "duration": "PT2H45M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.5,
     "ratingCount": 1822084,
     "year": 2012
@@ -775,7 +775,7 @@
     "url": "https://www.imdb.com/fr/title/tt0180093/",
     "genre": "Drame",
     "duration": "PT1H42M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.3,
     "ratingCount": 951186,
     "year": 2000
@@ -884,7 +884,7 @@
     "url": "https://www.imdb.com/fr/title/tt0088247/",
     "genre": "Action, Aventure, Science-fiction",
     "duration": "PT1H47M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.1,
     "ratingCount": 977863,
     "year": 1984
@@ -897,7 +897,7 @@
     "url": "https://www.imdb.com/fr/title/tt0110413/",
     "genre": "Action, Policier, Drame",
     "duration": "PT1H50M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.5,
     "ratingCount": 1319411,
     "year": 1994
@@ -936,7 +936,7 @@
     "url": "https://www.imdb.com/fr/title/tt0075314/",
     "genre": "Policier, Drame",
     "duration": "PT1H54M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.2,
     "ratingCount": 995746,
     "year": 1976
@@ -1004,7 +1004,7 @@
     "url": "https://www.imdb.com/fr/title/tt0066921/",
     "genre": "Policier, Science-fiction",
     "duration": "PT2H16M",
-    "contentRating": "18",
+    "contentRating": "18+",
     "rating": 8.2,
     "ratingCount": 920524,
     "year": 1972
@@ -1045,7 +1045,7 @@
     "url": "https://www.imdb.com/fr/title/tt4729430/",
     "genre": "Animation, Aventure, Comédie",
     "duration": "PT1H36M",
-    "contentRating": "7",
+    "contentRating": "7+",
     "rating": 8.2,
     "ratingCount": 219691,
     "year": 2019
@@ -1139,7 +1139,7 @@
     "url": "https://www.imdb.com/fr/title/tt0105236/",
     "genre": "Policier, Thriller",
     "duration": "PT1H39M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.3,
     "ratingCount": 1146112,
     "year": 1992
@@ -1152,7 +1152,7 @@
     "url": "https://www.imdb.com/fr/title/tt0120586/",
     "genre": "Policier, Drame",
     "duration": "PT1H59M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.5,
     "ratingCount": 1245110,
     "year": 1998
@@ -1315,7 +1315,7 @@
     "url": "https://www.imdb.com/fr/title/tt0081505/",
     "genre": "Drame, Horreur",
     "duration": "PT2H26M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.4,
     "ratingCount": 1184989,
     "year": 1980
@@ -1409,7 +1409,7 @@
     "url": "https://www.imdb.com/fr/title/tt0993846/",
     "genre": "Biographique, Comédie, Policier",
     "duration": "PT3H",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 1720037,
     "year": 2013
@@ -1546,7 +1546,7 @@
     "url": "https://www.imdb.com/fr/title/tt0081398/",
     "genre": "Biographique, Drame, Sport",
     "duration": "PT2H9M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 400664,
     "year": 1980
@@ -1656,7 +1656,7 @@
     "url": "https://www.imdb.com/fr/title/tt1130884/",
     "genre": "Drame, Mystère, Thriller",
     "duration": "PT2H18M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 1580565,
     "year": 2010
@@ -1725,7 +1725,7 @@
     "url": "https://www.imdb.com/fr/title/tt0068646/",
     "genre": "Policier, Drame",
     "duration": "PT2H55M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 9.2,
     "ratingCount": 2159595,
     "year": 1972
@@ -1738,7 +1738,7 @@
     "url": "https://www.imdb.com/fr/title/tt0117951/",
     "genre": "Policier, Drame",
     "duration": "PT1H33M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.1,
     "ratingCount": 756745,
     "year": 1996
@@ -1873,7 +1873,7 @@
     "url": "https://www.imdb.com/fr/title/tt0084787/",
     "genre": "Horreur, Mystère, Science-fiction",
     "duration": "PT1H49M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.2,
     "ratingCount": 507840,
     "year": 1982
@@ -1914,7 +1914,7 @@
     "url": "https://www.imdb.com/fr/title/tt7286456/",
     "genre": "Policier, Drame, Thriller",
     "duration": "PT2H2M",
-    "contentRating": "12 avec avertissement",
+    "contentRating": "12+ avec avertissement",
     "rating": 8.3,
     "ratingCount": 1640256,
     "year": 2019
@@ -1954,7 +1954,7 @@
     "url": "https://www.imdb.com/fr/title/tt0071315/",
     "genre": "Drame, Mystère, Thriller",
     "duration": "PT2H10M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 369586,
     "year": 1974
@@ -1968,7 +1968,7 @@
     "url": "https://www.imdb.com/fr/title/tt0120689/",
     "genre": "Policier, Drame, Fantastique",
     "duration": "PT3H9M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.6,
     "ratingCount": 1511315,
     "year": 1999
@@ -1982,7 +1982,7 @@
     "url": "https://www.imdb.com/fr/title/tt0102926/",
     "genre": "Policier, Drame, Horreur",
     "duration": "PT1H58M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.6,
     "ratingCount": 1662475,
     "year": 1991
@@ -2022,7 +2022,7 @@
     "url": "https://www.imdb.com/fr/title/tt0137523/",
     "genre": "Policier, Drame, Thriller",
     "duration": "PT2H19M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.8,
     "ratingCount": 2514809,
     "year": 1999
@@ -2035,7 +2035,7 @@
     "url": "https://www.imdb.com/fr/title/tt0477348/",
     "genre": "Policier, Drame, Thriller",
     "duration": "PT2H2M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 1146771,
     "year": 2007
@@ -2063,7 +2063,7 @@
     "url": "https://www.imdb.com/fr/title/tt0054215/",
     "genre": "Drame, Horreur, Mystère",
     "duration": "PT1H49M",
-    "contentRating": "18",
+    "contentRating": "18+",
     "rating": 8.5,
     "ratingCount": 763103,
     "year": 1960
@@ -2131,7 +2131,7 @@
     "url": "https://www.imdb.com/fr/title/tt0093058/",
     "genre": "Drame, Guerre",
     "duration": "PT1H56M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.2,
     "ratingCount": 832646,
     "year": 1987
@@ -2171,7 +2171,7 @@
     "url": "https://www.imdb.com/fr/title/tt3315342/",
     "genre": "Action, Drame, Science-fiction",
     "duration": "PT2H17M",
-    "contentRating": "12 avec avertissement",
+    "contentRating": "12+ avec avertissement",
     "rating": 8.1,
     "ratingCount": 903588,
     "year": 2017
@@ -2455,7 +2455,7 @@
     "url": "https://www.imdb.com/fr/title/tt0086250/",
     "genre": "Policier, Drame",
     "duration": "PT2H50M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.3,
     "ratingCount": 984762,
     "year": 1983
@@ -2511,7 +2511,7 @@
     "url": "https://www.imdb.com/fr/title/tt0077416/",
     "genre": "Drame, Guerre",
     "duration": "PT3H3M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 379725,
     "year": 1979
@@ -2551,7 +2551,7 @@
     "url": "https://www.imdb.com/fr/title/tt0114369/",
     "genre": "Policier, Drame, Mystère",
     "duration": "PT2H7M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.6,
     "ratingCount": 1949290,
     "year": 1995
@@ -2593,7 +2593,7 @@
     "url": "https://www.imdb.com/fr/title/tt2119532/",
     "genre": "Biographique, Drame, Historique",
     "duration": "PT2H19M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.1,
     "ratingCount": 652752,
     "year": 2016
@@ -2648,7 +2648,7 @@
     "url": "https://www.imdb.com/fr/title/tt0099685/",
     "genre": "Biographique, Policier, Drame",
     "duration": "PT2H25M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.7,
     "ratingCount": 1348753,
     "year": 1990
@@ -2758,7 +2758,7 @@
     "url": "https://www.imdb.com/fr/title/tt0078748/",
     "genre": "Horreur, Science-fiction",
     "duration": "PT1H57M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.5,
     "ratingCount": 1033374,
     "year": 1979
@@ -2771,7 +2771,7 @@
     "url": "https://www.imdb.com/fr/title/tt0112641/",
     "genre": "Policier, Drame",
     "duration": "PT2H58M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 601936,
     "year": 1995
@@ -2824,7 +2824,7 @@
     "url": "https://www.imdb.com/fr/title/tt0070047/",
     "genre": "Horreur",
     "duration": "PT2H2M",
-    "contentRating": "18",
+    "contentRating": "18+",
     "rating": 8.1,
     "ratingCount": 485225,
     "year": 1973
@@ -2880,7 +2880,7 @@
     "url": "https://www.imdb.com/fr/title/tt0266697/",
     "genre": "Action, Policier, Thriller",
     "duration": "PT1H51M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.2,
     "ratingCount": 1267898,
     "year": 2003
@@ -2947,7 +2947,7 @@
     "url": "https://www.imdb.com/fr/title/tt4016934/",
     "genre": "Drame, Romantique, Thriller",
     "duration": "PT2H25M",
-    "contentRating": "12 avec avertissement",
+    "contentRating": "12+ avec avertissement",
     "rating": 8.1,
     "ratingCount": 193366,
     "year": 2017
@@ -3098,7 +3098,7 @@
     "url": "https://www.imdb.com/fr/title/tt0073195/",
     "genre": "Aventure, Horreur, Thriller",
     "duration": "PT2H4M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.1,
     "ratingCount": 716275,
     "year": 1975
@@ -3220,7 +3220,7 @@
     "url": "https://www.imdb.com/fr/title/tt0317248/",
     "genre": "Policier, Drame",
     "duration": "PT2H10M",
-    "contentRating": "16",
+    "contentRating": "16+",
     "rating": 8.6,
     "ratingCount": 849034,
     "year": 2004
@@ -3247,7 +3247,7 @@
     "url": "https://www.imdb.com/fr/title/tt0053291/",
     "genre": "Comédie, Musical, Romantique",
     "duration": "PT2H1M",
-    "contentRating": "12",
+    "contentRating": "12+",
     "rating": 8.2,
     "ratingCount": 298877,
     "year": 1959
@@ -3303,7 +3303,7 @@
     "url": "https://www.imdb.com/fr/title/tt0071562/",
     "genre": "Policier, Drame",
     "duration": "PT3H22M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 9,
     "ratingCount": 1451473,
     "year": 1974
@@ -3358,7 +3358,7 @@
     "url": "https://www.imdb.com/fr/title/tt0050825/",
     "genre": "Drame, Guerre",
     "duration": "PT1H28M",
-    "contentRating": "(Banned)",
+    "contentRating": "Tous publics",
     "rating": 8.4,
     "ratingCount": 230106,
     "year": 1957
@@ -3372,7 +3372,7 @@
     "url": "https://www.imdb.com/fr/title/tt0090605/",
     "genre": "Action, Aventure, Horreur",
     "duration": "PT2H17M",
-    "contentRating": "13",
+    "contentRating": "13+",
     "rating": 8.4,
     "ratingCount": 820087,
     "year": 1986
