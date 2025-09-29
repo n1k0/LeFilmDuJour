@@ -31,8 +31,11 @@ function formatDuration(duration) {
 }
 
 function format(movie) {
+
   return [
-    `${movie.alternateName} (${movie.name} | ${movie.year} | ${formatDuration(movie.duration)})\n`,
+    movie.alternateName
+      ? `${movie.alternateName} (${movie.name} | ${movie.year} | ${formatDuration(movie.duration)})\n`
+      : `${movie.name} (${movie.year} | ${formatDuration(movie.duration)})\n`,
     `${movie.description}\n`,
     `${movie.rating}/10 - ${movie.genre} - ${movie.contentRating} #seance21h`,
     `${movie.url}`,
